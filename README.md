@@ -12,5 +12,5 @@
  - Your favorite IDE
 </p>
 <p><h6>Stay tuned for the latest updates:</h6>
-<a href="https://goo.gl/rPFpid" >
+<a href="https://github.com/KishorKokate" >
 Follow @kishor Kokate</a></p>
